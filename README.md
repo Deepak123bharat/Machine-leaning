@@ -1,3 +1,3 @@
 # Machine-leaning
-Use of multiple linear regression
+Basics of Machine learning
 
